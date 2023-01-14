@@ -2,6 +2,10 @@
 
 ## Getting Started
 
+#### Clone the project
+
+#### npm install & lets get coding.
+
 First, run the development server:
 
 ```bash
